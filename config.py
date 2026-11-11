@@ -1,0 +1,4 @@
+# 초기 상태 값 
+START_HUNGER = 30
+START_HAPPY = 70
+START_ENEERGY = 70 

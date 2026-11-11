@@ -1,6 +1,6 @@
-def main():
-    print("Hello from tamagoki!")
+from pet import Pet
 
+choco = Pet("초코")
+print(choco)
 
-if __name__ == "__main__":
-    main()
+print("main.py 의 __name__:", __name__)
